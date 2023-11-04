@@ -1,4 +1,4 @@
-# facial-electromyography
+# Recognition of facial expressions using EMG
 Paper, code and data on the recognition of self-initiated emotional expressions using facial electromyography.
 
 The data includes an 8-channel EMG collected from 10 people when they showed various emotional expressions.
